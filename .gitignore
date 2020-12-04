@@ -38,6 +38,9 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
+# Jupyter files
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -51,3 +54,4 @@ __pycache__/
 /ghost
 /data/tmp
 thoughts.log
+*.zip
