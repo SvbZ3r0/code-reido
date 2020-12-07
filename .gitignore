@@ -53,6 +53,6 @@ __pycache__/
 
 # not for Github
 /ghost
-/data/tmp
+tmp/
 thoughts.log
 *.zip
